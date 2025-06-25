@@ -1,16 +1,20 @@
-## Hi there 👋
+# ShopUI E-Commerce App
 
-<!--
-**Lavya1595/Lavya1595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A simple web-based e-commerce application built with HTML, CSS, and JavaScript. ShopUI allows users to browse products, add them to a cart, and provides an admin interface to add new products dynamically.
 
-Here are some ideas to get you started:
+## 🛍️ Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Product catalog with images and pricing
+- Add to Cart functionality with total calculation
+- Admin panel to add new products with custom images
+- Responsive layout and clean design
+- Built using only vanilla HTML, CSS, and JavaScript (no frameworks)
+
+## 🚀 Live Demo
+
+[Click here to view the live site](https://yourusername.github.io/shopui-ecommerce/)
+
+> Replace `yourusername` with your actual GitHub username once deployed.
+
+## 📂 Project Structure
+
